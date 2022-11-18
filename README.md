@@ -17,6 +17,7 @@ The scripts will, over time, provide added benefits to Fedora users, and are lis
 <li> [WIP] 45Drives-setup:     Install tools from 45Drives.                    </li>
 <li> [WIP] FLIPTool:           Find Largest Installed Packages (FLIP) Tool.    </li>
 <li> [WIP] add-fcontext:       SeLinux context Utility.                        </li>
+<li> [WIP] RootCheckr:         Checks for root.                                </li>
 <ul>
 </div>
 <hr>
