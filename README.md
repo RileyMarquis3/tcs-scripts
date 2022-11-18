@@ -12,11 +12,11 @@ The scripts will, over time, provide added benefits to Fedora users, and are lis
 <b><u>Initial Projects</u></b><br>
 <ul>
 <li> [WIP] ColorEcho (cecho):  Allows the BASH echo command to output in color quickly and easily. </li>
-<li> [WIP] KTools:             A set of various kernel tools.      </li>
-<li> [WIP] RPMFusion:          Tools to install RPM Fusion.        </li>
-<li> [WIP] 45Drives-setup:     Install tools from 45Drives.        </li>
-<li> [WIP] FLIP:               Find Largest Installed Packages.    </li>
-<li> [WIP] add-fcontext:       find SeLinux context.               </li>
+<li> [WIP] KConfigTool:        Get and save running kernel config.             </li>
+<li> [WIP] RPMFusion:          Tools to install RPM Fusion.                    </li>
+<li> [WIP] 45Drives-setup:     Install tools from 45Drives.                    </li>
+<li> [WIP] FLIPTool:           Find Largest Installed Packages (FLIP) Tool.    </li>
+<li> [WIP] add-fcontext:       SeLinux context Utility.                        </li>
 <ul>
 </div>
 <hr>
@@ -24,7 +24,7 @@ The scripts will, over time, provide added benefits to Fedora users, and are lis
 <b><u>New Additions 11/11/2022</u></b><br>
 <ul>
 <li> [WIP] KISSTool:           Kernel Indepth Static Sanity Checker Tool.   </li>
-<li> [WIP] BLING:              BASH Library Implementation - Next Gen       </li>
+<li> [WIP] BLING:              BASH Library Implementation - Next Gen (BLING).  A collection of useful functions for BASH.          </li>
 <li> [WIP] BackupWebRoot:      A new script to assist in the development of TarMonster ( a forthcoming tar/Gzip/Bzip/Xz utility).   </li>
 </ul>
 </div>
