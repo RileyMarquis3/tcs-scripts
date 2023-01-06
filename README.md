@@ -11,13 +11,13 @@ The scripts will, over time, provide added benefits to Fedora users, and are lis
 <div id="initial-projects">
 <b><u>Initial Projects</u></b><br>
 <ul>
-<li> [WIP] ColorEcho (cecho):  Allows the BASH echo command to output in color quickly and easily. </li>
-<li> [WIP] KConfigTool:        Get and save running kernel config.             </li>
-<li> [WIP] RPMFusion:          Tools to install RPM Fusion.                    </li>
-<li> [WIP] 45Drives-setup:     Install tools from 45Drives.                    </li>
-<li> [WIP] FLIPTool:           Find Largest Installed Packages (FLIP) Tool.    </li>
-<li> [WIP] add-fcontext:       SeLinux context Utility.                        </li>
-<li> [WIP] RootCheckr:         Checks for root.                                </li>
+<li> [WIP] ColorEcho (cecho):         Allows the BASH echo command to output in color quickly and easily. </li>
+<li> [WIP] KConfigTool:               Get and save running kernel config.             </li>
+<li> [WIP] RPMFusion-Installer:       Tools to install RPM Fusion.                    </li>
+<li> [WIP] 45Drives-setup:            Install tools from 45Drives.                    </li>
+<li> [WIP] FLIPTool:                  Find Largest Installed Packages (FLIP) Tool.    </li>
+<li> [WIP] add-fcontext:              SeLinux context Utility.                        </li>
+<li> [WIP] RootCheckr:                Checks for root.                                </li>
 <ul>
 </div>
 <hr>
