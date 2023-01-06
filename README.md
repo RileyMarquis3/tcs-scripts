@@ -25,7 +25,7 @@ The scripts will, over time, provide added benefits to Fedora users, and are lis
 <b><u>New Additions 11/11/2022</u></b><br>
 <ul>
 <li> [WIP] KISSTool:           Kernel Indepth Static Sanity (KISS) Checker Tool.   </li>
-<li> [WIP] SpinRunner:         Creates a spinning cursor while anopther program is working.   </li>
+<li> [WIP] SpinRunner:         Creates a spinning cursor while another program is working.   </li>
 <li> [WIP] BuildRoot-Utility:  A utility to check buildroot size and clean it.      </li>
 <li> [WIP] BLING:              BASH Library Implementation - Next Gen (BLING).  A collection of useful functions for BASH.          </li>
 <li> [WIP] BackupWebRoot:      A new script to assist in the development of TarMonster ( a forthcoming tar/Gzip/Bzip/Xz utility).   </li>
